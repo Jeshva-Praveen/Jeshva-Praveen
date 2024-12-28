@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jeshva Praveen</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeshva-praveen" alt="jeshva-praveen" /></a> </p>
 
 - 📫 How to reach me **23pa1a05j9@vishnu.edu.in**
 
@@ -17,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeshva-praveen&show_icons=true&locale=en&layout=compact" alt="jeshva-praveen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeshva-praveen&show_icons=true&locale=en" alt="jeshva-praveen" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeshva-praveen" alt="jeshva-praveen" /></a> </p>
