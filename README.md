@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeshva Praveen</h1>
 
-- 📫 How to reach me **23pa1a05j9@vishnu.edu.in**
+- 📫 How to reach me **jeshvapraveen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
